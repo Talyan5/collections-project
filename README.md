@@ -1,6 +1,6 @@
-#Basic Project
+#
 
-*Simple Project
+*collections-project
 
 **Java 7**
 
@@ -9,4 +9,4 @@
 
 Simple Java Application. 
 
-[Anatoliy Starinskiy](http://ebay.com)
+[Anatoliy Starinskiy](https://github.com/Talyan5/collections-project.git)
